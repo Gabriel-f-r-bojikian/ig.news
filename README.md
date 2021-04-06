@@ -24,10 +24,13 @@ This repository is still a work in progress. More changes, features, corrections
 # Features
 - [x] Responsive landing page
 - [x] Static side generation functionalities
+- [x] Stripe integration
+- [x] FaunaDB integration
+- [x] All CRUD operations functioning
 
 # How to install and run this application
 ## Prerequisites
-To run this code you will need the latest versions of [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed on your machine.
+To run this code you will need the latest versions of [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed on your machine. You will also need to set up a Stripe and FaunaDB accounts and set your local variables accordingly after cloning this repository.
 ## Installing and running
 ```bash
 # Clone this respository
@@ -50,6 +53,7 @@ The following technologies were used for the completion of this challenge:
 - ![Typescript Badge](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff&link=https://www.typescriptlang.org/)
 - ![Sass Badge](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff&link=https://sass-lang.com/)
 - ![Stripe Badge](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=ffffff&link=https://stripe.com/br)
+- ![FaunaDB Badge](https://img.shields.io/badge/-FaunaDB-492fb1?style=flat-square&link=https://fauna.com/)
 
 
 # Author and Acknowledgements
